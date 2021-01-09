@@ -1,0 +1,10 @@
+C:\Users\Enes tayfun\source\repos\SanalKlavye\bin\Debug\SanalKlavye.exe.config
+C:\Users\Enes tayfun\source\repos\SanalKlavye\bin\Debug\SanalKlavye.exe
+C:\Users\Enes tayfun\source\repos\SanalKlavye\bin\Debug\SanalKlavye.pdb
+C:\Users\Enes tayfun\source\repos\SanalKlavye\obj\Debug\SanalKlavye.csprojAssemblyReference.cache
+C:\Users\Enes tayfun\source\repos\SanalKlavye\obj\Debug\SanalKlavye.Form1.resources
+C:\Users\Enes tayfun\source\repos\SanalKlavye\obj\Debug\SanalKlavye.Properties.Resources.resources
+C:\Users\Enes tayfun\source\repos\SanalKlavye\obj\Debug\SanalKlavye.csproj.GenerateResource.cache
+C:\Users\Enes tayfun\source\repos\SanalKlavye\obj\Debug\SanalKlavye.csproj.CoreCompileInputs.cache
+C:\Users\Enes tayfun\source\repos\SanalKlavye\obj\Debug\SanalKlavye.exe
+C:\Users\Enes tayfun\source\repos\SanalKlavye\obj\Debug\SanalKlavye.pdb
