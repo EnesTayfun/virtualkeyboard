@@ -38,3 +38,5 @@ Right and left shift buttons work one time therefore we get reset these buttons 
 On line 19 we look to a sticky button. In the SendKeys property, "^" sign defined as CTRL so this command means CTRL + A
 
 And on line 26, if no conditions are met we use this block. We send character "a" to screen.
+
+Source : https://www.youtube.com/watch?v=oEHXBlEfOvM&t=636s
